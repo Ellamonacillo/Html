@@ -1,0 +1,10 @@
+<html>
+	<head><font size="10" face="broadway"><hr><center> WELCOME <hr></center>
+	<title>HOME
+	</title>
+	</head>
+	<body background="bg.jpg">
+	<center>
+	<a href="file:///D:/Student/Documents/monacillo%20&%20metila/2.html">About</a>
+	</body></font></center>
+</html>

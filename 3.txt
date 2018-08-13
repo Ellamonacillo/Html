@@ -1,0 +1,28 @@
+<HTML>
+	<head>  <center> <img src="ac.jpg" height="150" width="150"> <br>
+<H2> Metila, Arielle Charleymagne S. </H2> </center>
+	<title> AC’s Personal Information </title>
+	</head>
+	<body background="panda.jpg" text="teal">
+	<font size="5">
+	<p> <b> Age: </b> 15 <br>
+	<b> Birthday: </b> January 23, 2003 <br>
+	<b> Gender: </b> Female <br>
+	<b> Address: </b> Blk. 57 Lt. 11, Atis Street, Antipolo Hills Subdivision, Barangay San Luis, Antipolo City <br>
+	<b> Contact No. : </b> 0928-453-4672 <br> <br>
+	<b> Mother’s Name: </b> Marietta S. Metila <br>
+	<b> Birthday: </b> January 11, 1965 <br>
+	<b> Occupation : </b> Bussinesswoman <br>
+	<b> Contact No.: </b> 0918-664-5017 <br> <br>
+	<b> Father’s Name: </b> Romeo P. Metila <br>
+	<b> Birthday: </b> April 16, <br>
+	<b> Occupation: </b> Lawyer <br>
+	<b> Contact No.: </b> 0921-227-8497 <br><center>
+	&nbsp; &nbsp;<a href="file:///D:/Student/Documents/monacillo%20&%20metila/2.html">About</a>
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	<a href="file:///D:/Student/Documents/monacillo%20&%20metila/5.html">Hobbies and Favorites</a>
+	</body></center>
+</HTML>

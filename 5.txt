@@ -1,0 +1,57 @@
+<HTML>
+	<Head><h1><center>AC’s Hobbies and favorites</h1></center>
+	<Title> AC’s Hobbies and Favorites </Title>
+	</Head>	
+	<Body background="panda2.gif">
+<OL>
+	<LI> Hobbies </LI>
+	<UL Type="square">
+	<LI> Play crossword puzzles </LI>
+	<LI> Search for brain teasers </LI>
+	<LI> Searching for trivias </LI>
+	<LI> Playing an instrument </LI>
+	<LI> Reading </LI>
+	<LI> Writing poetry </LI>
+	<LI> Listening to music </LI>
+	</ul>
+	<LI> Favorites </LI>
+<ul type="square">
+<p><li> Favorite fast food restaurant? <u> Jollibee, Chowking, Mcdo, KFC </u> <br>
+<li>Favorite ice cream flavor? <u> Chocolate!</li> </u> <br>
+<li>Favorite food of all time? <u> any food will do, lol</li> </u> <br>
+<li>Favorite fruit? <u> Langka // Mango</li> </u> <br>
+<li>Favorite dessert? <u> All kinds of dessert :P</li> </u> <br>
+<li>Favorite comfort food? <u> Ice Cream // Noodles</li> </u> <br>
+<li>Favorite cake? <u> None specifically. I eat all kinds of cake, yey!</li> </u> <br>
+<li>Favorite soda? <u> Sprite</li> </u> </p> <br> <br> 
+
+<p><li> Favorite cartoon? <u> We Bare Bears!</li> </u> <br>
+<li>Favorite scary movie? <u> Uhmm..</li> </u> <br>
+<li>Favorite funny movie? <u> All?</li> </u> <br>
+<li>Favorite celebrity? <u> Lily Collins</li> </u> <br>
+<li>Favorite chick flick? <u> Mean Girls ?</li> </u> <br>
+<li>Favorite Pixar movie? <u> Up!</li> </u> <br>
+<li>Favorite TV show? <u> Face to Face! Lol</li> </u> <br> <br> 
+<li>Favorite instrument? <u> Piano</li> </u> <br>
+<li>Favorite band or music artist? <u> Parokya ni Edgar, Silent Sanctuary, December Avenue, Autotelic</li> </u> <br>
+<li>Favorite cover song? <u> Any Boyce Avenue cover will do :)</li> </u> </p> <br> <br>
+
+<p><li>Favorite country you want to visit? <u> Paris?</li> </u> <br>
+<li>Favorite kind of vacation? <u> Travelling</li> </u> <br>
+<li>Favorite place to go with family? <u> Anywhere with fam is good. :)</li> </u> <br>
+<li>Favorite fictional place you’d want to visit? <u> Hogwarts?</li> </u> <br>
+<li>Favorite thing about traveling? <u> Everything about travelling is fun! Whether it be to escape things or simply have fun, travelling is the best!</li> </u> </p> <br>
+</uL><center>
+	&nbsp; &nbsp;<a href="file:///D:/Student/Documents/monacillo%20&%20metila/3.html">Back</a>
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	<a href="file:///D:/Student/Documents/monacillo%20&%20metila/7.html">Song Lyrics</a>
+
+	</Body></center>
+</HTML>
+
+

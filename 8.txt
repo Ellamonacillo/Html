@@ -1,0 +1,49 @@
+<html>
+	<head><h1><center>SONG LYRICS</h1></center>
+	<title>Song Lyrics
+	</title>
+	</head>
+	<body background="music5.jpeg" text="white"><center>
+	<font face="comic sans ms">
+	<p><i>
+	"No matter where you go. You know you're not alone"<br>
+	<b>- Charlie puth, One Call Away</b><br><br>
+	"I know I'm not what you need. But, baby, I’m gonna be"<br>
+	<b>- Charlie Puth, Patient</b><br><br>
+	"I think of what the world could be. A vision of the one I see"<br>
+	<b>- Ziv Zaifman, Hugh Jackman and Michelle Williams,A Million Dreams</b><br><br>
+	"I have died everyday waiting for you. Darling don't be afraid I have loved you"<br>
+	<b>- Christina Perri, A Thousand Years</b><br><br>
+	"We keep this love in a photograph. We made these memories for ourselves"<br>
+	<b>- Ed Sheeran, Photograph</b><br><br>
+	"Mapapansin kaya sa dami ng 'yong gingawa. Kung kaagaw ko ang lahat may pag asa bang makilala ka"<br>
+	<b>- Kamikazee, Narda</b><br><br>
+	"Ikaw ang kasama buhat noon. Ikaw ang pangarap hanggang ngayon"<br>
+	<b>- Sam Concepion, Dati</b><br><br>
+	"Wag kang mag-alala di ko ipipilit sa'yo. Kahit na lilipad, ang isip ko'y torete sa'yo"<br>
+	<b>- Moonstar88, Torete</b><br><br>
+	"Kung maging tayo, Sa'yo lang ang puso ko"<br>
+	<b>- Silent Sanctuary, Sayo</b><br><br>
+	"You're all I ever wanted and all I ever needed. Even if you pretend please love me again."<br>
+	<b>- Caleb Santos, I Need You More Today</b><br><br>
+	"Basta't may ikaw at ako ay sayo"<br>
+	<b>- Kyle Echarri, Pangako</b><br><br>
+	"Now I realize you were the only one, It's never too late to show it"<br>
+	<b>- Jason Chen, Best Friend</b><br><br>
+	"So why don't we rewrite the stars?. Maybe the world could be ours"<br>
+	<b>- Zac Efron and Zendaya, Rewrite the Stars</b><br><br>
+	"Yes I would die for you baby, But you won't do the same"<br>
+	<b>- Bruno Mars, Grenade</b><br><br>
+	"Let me be the one to break it up. So you won't have to make excuses"<br>
+	<b>- Jimmy Bondoc, Let Me Be The One</b><br><br></p></i>
+	
+	&nbsp; &nbsp;<a href="file:///D:/Student/Documents/monacillo%20&%20metila/2.html">About</a>
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	<a href="file:///D:/Student/Documents/monacillo%20&%20metila/9.html">Kdrama</a>
+	</body></font></center>
+</html>

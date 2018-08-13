@@ -1,0 +1,49 @@
+<HTML>
+	<head> <center> <h1> SONG LYRICS  </h1> </center>
+	<title> Song Lyrics </title>
+	</head>
+	<body background="music3.jpg">
+	<font face="Comic Sans MS">
+	<center> <p> <i> “Sometimes it lasts in love, but sometimes it hurts instead.” <br>
+			<b> -Adele, Someone Like You </b> <br><br>
+	“I’m weak, it’s true. ‘Cause I’m afraid to know the answer.” <br>
+	<b> -Ryan Cabrera, True </b> <br><br>
+	“Iiyak mo na ang lahat sa langit, iiyak mo lang ang lahat sa akin.” <br>
+	<b> - 6 Cycle Mind, Sandalan </b> <br><br>
+	“Only know you love her when you let her go.” <br>
+	<b> - Passenger, Let Her Go </b> <br><br>
+	“Do you ever wonder if the stars shine out for you?” <br>
+	<b> - Ed Sheeran, Autumn Leaves </b> <br><br>
+	“When everything is made to be broken, I just want you to know who I am” <br>
+	<b> - Goo Goo Dolls, Iris </b> <br><br>
+	“You’re my downfall, you’re my muse. My worst distraction, my rhythm and blues” <br>
+	<b> - John Legend, All of Me </b> <br> <br>
+	“When I see your face, there’s not a thing that I would change ‘cause you’re amazing just the way you are.” <br>
+	<b> - Bruno Mars, Just the Way You Are </b> <br><br>
+	“Take my hand, take my whole life too for I can’t help falling in love with you” <br>
+	<b> - Elvis Presley, Can’t Help Falling in Love </b> <br><br>
+	“If I lay here, if I just lay here, would you lie with me and just forget the world?” <br>
+	<b> -Snow Patrol, Chasing Cars </b> <br><br>
+	“Lift your head, baby, don’t be scared of the things that could go wrong along the way. You’ll get by with a smile, you can’t win at everything but you can try.” <br>
+	<b> - Eraserheads, With a Smile </b> <br><br>
+	“Bakit ka nag-iba? Meron na bang iba?” <br>
+	<b> - I Belong to the Zoo, Sana </b> <br><br>
+	“So hush hush hush, dear. Coz everything is gonna be fine now.” <br>
+	<b> - Myk Perez, Fix You </b> <br><br>
+	“Sandali, ‘wag kang mapupuno sa paghihirap. Darating din ang pag-asa mong pinapangarap.” <br>
+	<b> - December Avenue, Eroplanong Papel </b> <br><br>
+	“Does he do all these things like I used to?” <br>
+	<b> - A Rocket to the Moon, Like We Used To </b> <br></p></i>
+	
+	&nbsp; &nbsp;<a href="file:///D:/Student/Documents/monacillo%20&%20metila/2.html">About</a>
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+	<a href="file:///D:/Student/Documents/monacillo%20&%20metila/9.html">Kdrama</a>
+
+	</body></center></font></center>
+</HTML>
+
